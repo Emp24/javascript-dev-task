@@ -6,4 +6,4 @@ Follow these steps to run the project:
 4- After the back-end dependencies finish installing run node index.js in the terminal  
 4- Move to the front-end folder and run npm install  
 5- After the front-end dependencies finish installing run npm start in the terminal  
-5- The project should start up in the browser now  
+6- The project should start up in the browser now  
